@@ -2,6 +2,7 @@
 
 ## Downloadable resources
 * [BASH Cheatsheet](https://github.com/evotools/GCRF_tutorial/blob/main/BASH/Bash_cheatsheet.pdf)
+* [BASH tutorial slides](https://www.dropbox.com/s/ezvblw34ksx919v/Day1_Bash.pdf)
 * [RNA-seq tutorial slides](https://www.dropbox.com/s/dlcptutrzsmjfet/RNAseq.pptx)
 
 ## Day 1
